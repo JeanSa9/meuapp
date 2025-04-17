@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { Card, CardContent } from "./components/ui/card"; // Caminho relativo
-import { Button } from "./components/ui/button"; // Caminho relativo
+import { Card, CardContent } from "../components/ui/card"; // Caminho relativo
+import { Button } from "../components/ui/button"; // Caminho relativo
 
 const planos = {
   Express: {
